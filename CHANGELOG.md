@@ -1,8 +1,12 @@
 # Changelog
 
+## 3.0.5
+
+- Changed build of chopper generator
+
 ## 3.0.4
 
--Configure chopper generator
+- Configure chopper generator
 
 ## 3.0.3
 
