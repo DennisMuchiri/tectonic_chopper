@@ -1,6 +1,6 @@
 name: tectonic_chopper
 description: Tectonic Chopper is an http client generator using source_gen and inspired from retrofit
-version: 3.0.3
+version: 3.0.4
 homepage: https://hadrien-lejard.gitbook.io/chopper
 repository: https://github.com/DennisMuchiri/tectonic_chopper #https://github.com/lejard-h/chopper
 
@@ -21,5 +21,5 @@ dev_dependencies:
   test_coverage: ^0.4.1
   http_parser: ^3.1.4
   pedantic: ^1.9.0
-  chopper_generator:
-    path: ../chopper_generator
+  tectonic_chopper_generator:
+    path: ../chopper_generator-3.0.4

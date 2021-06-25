@@ -1,5 +1,9 @@
 # Changelog
 
+## 3.0.4
+
+-Configure chopper generator
+
 ## 3.0.3
 
 - Packages upgrade
